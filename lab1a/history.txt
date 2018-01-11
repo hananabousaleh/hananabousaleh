@@ -1,0 +1,129 @@
+    1  $ man bash
+    2  bash
+    3  man bash
+    4  top
+    5  man bash
+    6  pwd
+    7  history
+    8  history >history.txt
+    9  ls
+   10  less history.txt
+   11  ls
+   12  man ls
+   13  ls -a
+   14  ls -1
+   15  ls -at
+   16  ls -lat
+   17  pwd
+   18  cd
+   19  back
+   20  cd ..
+   21  mkdir
+   22  mkdir ttt
+   23  cd .
+   24  cd hananabousaleh
+   25  mkdir ttt
+   26  cat >ttt
+   27  cd ttt
+   28  touch t.t
+   29  ls
+   30  cat>t.t
+   31  less t.t
+   32  df
+   33  grep hel t.t
+   34  less t.t
+   35  grep e t.t
+   36  wc t.t
+   37  cat>t.t
+   38  grep o t.t
+   39  emacs t.t
+   40  grep ' t.t
+   41  less t.t
+   42  cd ttt
+   43  less t.t
+   44  git config --global user.name "hananabousaleh"
+   45  git config --global user.email hananabousaleh@yahoo.ca
+   46  mkdir ~/.ssh
+   47  cd ~/.ssh
+   48  ssh-keygen
+   49  ls
+   50  cat ./id_rsa.pub
+   51  cd
+   52  git clone https://hananabousaleh@bitbucket.org/hananabousaleh/physmath248_hanan_abousaleh.git
+   53  git clone https://hananabousaleh@bitbucket.org/hananabousaleh/physmath248_hanan_abousaleh.git
+   54  ls
+   55  cd physmath248_hanan_abousaleh/
+   56  mkdir Lab1a
+   57  ls
+   58  cd
+   59  mkdir tmp
+   60  cd tmp
+   61  touch tmp.txt
+   62  emacs tmp.txt
+   63  emacs tmp.txt
+   64  less tmp.txt
+   65  history
+   66  cd tmp
+   67  emacs tmp.txt
+   68  git config --global user.name "Hanan Abousaleh"
+   69  git config --global user.name "hananabousaleh"
+   70  git config --user.email hananabousaleh@yahoo.ca
+   71  git config --global user.email hananabousaleh@yahoo.ca
+   72  ssh-keygen
+   73  cat .ssh/id_rsa.pub
+   74  git clone git@bitbucket.org:hananabousaleh/mp248.git
+   75  cd mp248
+   76  echo "# My project's README" >> README.md
+   77  git add README.md
+   78  git commit -m "Initial commit"
+   79  git push -u origin master
+   80  mkdir lab1a
+   81  git@github.com:UVic-CompPhys/physmath248-2018.git
+   82  git pull git@github.com:UVic-CompPhys/physmath248-2018.git
+   83  rmdir idk
+   84  cd
+   85  rmdir idk
+   86  rmdir f idk
+   87  f/rmdir idk
+   88  git clone git@github.com:UVic-CompPhys/physmath248-2018.git
+   89  git clone github.com:UVic-CompPhys/physmath248-2018
+   90  git@github.com:UVic-CompPhys/physmath248-2018.git
+   91  git clone https://github.com/UVic-CompPhys/physmath248-2018.git
+   92  cd
+   93  ls
+   94  cd tmp
+   95  emacs tmp.txt
+   96  history
+   97  git pull
+   98  cd
+   99  git pull
+  100  git pull physmath248-2018/
+  101  sudo gedit .bash_history
+  102  cd tmp
+  103  mv tmp.txt names.txt
+  104  less names.txt
+  105  ls
+  106  more names.txt
+  107  wc -l names.txt
+  108  grep o mas names.txt
+  109  grep 'o mas' names.txt
+  110  grep o names.txt 
+  111  grep mas names.txt
+  112  grep ol names.txt
+  113  grep om names.txt
+  114  man grep
+  115  grep -v o names.txt 
+  116  grep -iv o names.txt
+  117  cd
+  118  man rm
+  119  rm -f tmp
+  120  man rm
+  121  rm -fd tmp
+  122  rm -d tmp
+  123  man rm
+  124  rm -r tmp
+  125  history
+  126  touch history.txt
+  127  cap history history.txt 
+  128  cat history history.txt
+  129  history > history.txt
