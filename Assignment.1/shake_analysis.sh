@@ -13,4 +13,4 @@ echo $y
 
 # What is the 8th word in the line containing strings LADY MACBETH and blood?
 z=$(grep 'LADY MACBETH.*blood\|blood.*LADY MACBETH' shakespeare-macbeth-46.txt)
-echo $z
+echo $z | awk '{print $8}'
