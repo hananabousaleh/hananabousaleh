@@ -1,4 +1,4 @@
-import math
+import numpy as np
 
 def gauss(x, a=1, b=0, c=1):
     """Gaussian function 
@@ -8,4 +8,4 @@ def gauss(x, a=1, b=0, c=1):
     a, b, c -- constants, can be adjusted. (defaults: a=c=1, b=0)
     
     """
-    return (a*math.exp((x-b)**2))
+    return (a*np.exp((x-b)**2))
