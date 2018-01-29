@@ -1,0 +1,5 @@
+0.61 is our value for f(1) under default values a, b, and c 
+pi is the name of 
+3.14, our value for sym_gauss_int_sqr(3). 
+The precision is better than 1.0e-03 for n >= 6. 
+Interval boundary  >= 2.20 for > 99% of the square of the indefinite integral included. 
