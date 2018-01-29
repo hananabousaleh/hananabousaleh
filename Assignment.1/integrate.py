@@ -20,5 +20,5 @@ def sym_gauss_int_sqr(xb, n=10):
     for i in y:
         h1=f.gauss(i, c=np.sqrt(0.5))
         h2=f.gauss(i+1, c=np.sqrt(0.5))
-        trapezoids +=(((2*xb)/(n-1))*((h1+h2)/2))
+        trapezoids +=(((xb)/(n-1))*((h1+h2)))
     return (trapezoids**2)

@@ -1,3 +1,19 @@
-0.607 is our value for f(1) under default values a, b, and c 
+0.61 is our value for f(1) under default values a, b, and c 
+
 pi is the name of 
  3.141, our value for sym_gauss_int_sqr(3) 
+pi is the name of 
+3.141, our value for sym_gauss_int_sqr(3). 
+pi is the name of 
+3.141, our value for sym_gauss_int_sqr(3). 
+pi is the name of 
+2.544, our value for sym_gauss_int_sqr(3). 
+pi is the name of 
+3.141, our value for sym_gauss_int_sqr(3). 
+pi is the name of 
+3.141, our value for sym_gauss_int_sqr(3). 
+pi is the name of 
+3.141, our value for sym_gauss_int_sqr(3). 
+pi is the name of 
+3.14, our value for sym_gauss_int_sqr(3). 
+The precision is better than 1.0e-03 for n >= 6.
